@@ -1,6 +1,3 @@
-
-
-
 #Google-Customer-Revenue-prediction
 
 This is the kernal which i sumbitted in the kaggle- google CRP and its till the half way compition
